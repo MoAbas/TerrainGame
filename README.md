@@ -1,5 +1,5 @@
 ### TerrainGame
-##### A Very Simple Terrain Game Implemented in Java. The terrain consists of h x w tiles.<br/>Players, Titans or Obstacles are distributed randomly across the tiles.<br/>The numbers of Players, Titans and Obstacles can be set by the user.<br/>There are three types of Titans:
+##### A Very Simple Terrain Game Implemented in Java. The terrain consists of h x w tiles.<br/>Players, Titans or Obstacles are distributed randomly across the tiles. The numbers of Players, Titans and Obstacles can be set by the user.<br/>There are three types of Titans:
 - Three-meter
 - Five-meter
 - 15-meter
